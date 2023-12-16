@@ -1,0 +1,4 @@
+cumle = input("Cümle ne olsun?")
+tekrarlama = int(input("Kaç kere tekrarlayalım?"))               
+yazi = (cumle+ "\n") * tekrarlama
+print(yazi)
